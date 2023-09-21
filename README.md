@@ -27,3 +27,16 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
 2. **init** method initialises all the variables
 3. check_guess() takes the users guess and checks whether it is in the word
 4. ask_for_input() geta the user to input a letter. If the letter is invalid, a new guess will be asked for. If its valid then it runs the check_guess() function
+
+### My Experience doing this
+
+I found this project to be built up in a strange way.
+In terms of the milestones i would have expected to slowly build up the functionality in functions then bring it all together layer by layer.
+
+I personally need to get better at testing my greater than and less than checks as have found i often get them confused.
+
+During the project i had to look up how to get the index position of a variable in a for loop.
+This was where i used the enumerate function in the check_guess() function.
+
+Overall this project for me was more of a learning curve by documenting the progress in the README file.
+As for the complexity of the project overall this was a fairly easy project.
